@@ -2,8 +2,7 @@
 My DZ60 layout for use with https://config.qmk.fm/
 
 ## Layer 0
-![image](https://user-images.githubusercontent.com/15612025/67863779-714c6980-fb1c-11e9-85e8-ccaa9ab88794.png)
+![image](https://user-images.githubusercontent.com/15612025/70374807-d864f700-18ee-11ea-8d2d-748648eefddd.png)
 ## Layer 1
-![image](https://user-images.githubusercontent.com/15612025/67863810-845f3980-fb1c-11e9-984c-a5c3da13cb1d.png)
-## Layer 2
-![image](https://user-images.githubusercontent.com/15612025/67863834-90e39200-fb1c-11e9-8769-07975bc8545e.png)
+![image](https://user-images.githubusercontent.com/15612025/70374813-e155c880-18ee-11ea-8cb5-b90cceae008f.png)
+
